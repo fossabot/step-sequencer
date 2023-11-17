@@ -3,6 +3,7 @@
 # StepSequencer
 
 ![Step Sequencer](img/step-sequencer.png)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjoegiralt%2Fstep-sequencer.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjoegiralt%2Fstep-sequencer?ref=badge_shield)
 
 StepSequencer is a Ruby gem providing a lightweight, intuitive DSL for defining and orchestrating a sequence of operations, also known as a workflow. Inspired by the functionality of musical sequencers, StepSequencer allows developers to chain together a series of steps that are executed in order, with the capability to halt the sequence based on custom conditions. This gem is particularly useful for scenarios where a set of tasks must be performed in a specific sequence, and where each task might depend on the outcome of the previous one.
 
@@ -283,3 +284,6 @@ Bug reports and pull requests are welcome. This project is intended to be a safe
 ## License
 
 The gem is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjoegiralt%2Fstep-sequencer.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjoegiralt%2Fstep-sequencer?ref=badge_large)
